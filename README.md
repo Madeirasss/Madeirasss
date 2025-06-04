@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madeirasss&label=Profile%20views&color=0e75b6&style=flat" alt="madeirasss" /> </p>
 
-- I’m currently studying at [Madeira University](www.uma.pt)
+- I’m currently studying at [Madeira University](https://www.uma.pt/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Madeirasss](https://github.com/Madeirasss)
 
